@@ -1,2 +1,2 @@
 # test_git
- 测试git_finish
+ 测试git_finish_2
